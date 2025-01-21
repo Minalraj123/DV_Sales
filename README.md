@@ -1,3 +1,8 @@
+
+![image](https://github.com/user-attachments/assets/6ecf1180-31a6-4695-93a0-5d83366bc79b)
+
+
+
 # DV_Sales
 Sales data is a collection of information that captures details about the transactions between a business and its customers. It is crucial for analyzing business performance, understanding customer behavior, and making informed decisions.
 **Here’s a detailed description of sales data:**
