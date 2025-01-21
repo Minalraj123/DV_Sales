@@ -48,9 +48,13 @@ The price of a single unit.
 The number of units sold.
 
 # Sales Metrics:
+
 **Revenue:** Total sales amount (Quantity × Unit Price).
+
 **Discounts:** Any price reductions applied during the sale.
+
 **Taxes:** Applicable taxes on the sale.
+
 **Profit:** Revenue minus cost of goods sold (COGS).
 
 # Geographical Data:
