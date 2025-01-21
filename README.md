@@ -14,6 +14,7 @@ It is crucial for analyzing business performance, understanding customer behavio
 Key Components of Sales Data
 
 **Transaction Details:**
+
 **Transaction ID:**
 A unique identifier for each sale.
 
@@ -60,8 +61,11 @@ Identifier for the sales location.
 # Region: The geographical area where the sale occurred.
 
 **Payment Information:**
+
 **Payment Method:** E.g., cash, credit card, digital wallets.
+
 **Payment Status:** Paid, pending, refunded, etc.
+
 **Channel Information:**
 
 **Sales Channel:** Online, offline, or hybrid.
