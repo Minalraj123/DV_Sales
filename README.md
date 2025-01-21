@@ -1,5 +1,6 @@
 # DV_Sales
-Sales data is a collection of information that captures details about the transactions between a business and its customers. It is crucial for analyzing business performance, understanding customer behavior, and making informed decisions. Here’s a detailed description of sales data:
+Sales data is a collection of information that captures details about the transactions between a business and its customers. It is crucial for analyzing business performance, understanding customer behavior, and making informed decisions.
+**Here’s a detailed description of sales data:**
 
 Key Components of Sales Data
 **Transaction Details:**
@@ -11,6 +12,7 @@ A unique identifier for each sale.
 The timestamp when the transaction occurred.
 
 **Customer Information:**
+
 **Customer ID:**
 A unique identifier for each customer.
 
@@ -21,8 +23,8 @@ Information like age, gender, location, etc.
 Categories like regular, new, VIP, etc.
 
 **Product/Service Information:**
-**Product ID:**
 
+**Product ID:**
 A unique identifier for the product.
 
 **Product Name:**
